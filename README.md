@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @duckworthj39
 - 👀 I’m interested in all sorts of software an hardware related projects. I mostly work with Ruby on Rails and React
-- 🌱 I’m currently learning Elixer, Vue js, Python and C
+- 🌱 I’m currently learning Python with machine learning
